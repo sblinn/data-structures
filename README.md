@@ -3,6 +3,7 @@ Practice building, modifying and using various data structures.
 
 Prompt source: https://dev.to/fahimulhaq/top-8-data-structures-for-coding-interviews-and-practice-interview-questions-2pb
 
+Still in progres...
 
 Array:
 Find the second minimum element of an array.
